@@ -14,6 +14,15 @@ public class Main {
        System.out.println("Год выпуска " + book1.getYear());
        book.setYear(1933);
        System.out.println("Исправленный год выпуска книги на " + book.getYear());
+       System.out.println(author);
+       System.out.println(author1);
+       System.out.println(book);
+       System.out.println(book1);
+       System.out.println(book.equals(book));
+       System.out.println(author.equals(author));
+       System.out.println(book.hashCode());
+       System.out.println(author.hashCode());
+
 
 
 

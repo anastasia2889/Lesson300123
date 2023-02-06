@@ -72,7 +72,7 @@ public class Employee {
             System.out.println(calculateTheAmountOfSalaryCostsPerMonth(employee));
 
         }
-        System.out.println(findAnEmployeeWithTheMinimumWage(employee));
+
     }
 
 
